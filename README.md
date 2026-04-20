@@ -1,4 +1,4 @@
-# Moodle Task Scraper (LeADS UPNVJ)
+# [DRAFT] Moodle Task Scraper (LeADS UPNVJ)
 
 otomatisasi menggunakan Puppeteer untuk mengambil data tugas (assignment) dari dashboard Moodle. Dapat digunakan untuk AI Agent taks managenet automation
 
