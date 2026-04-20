@@ -1,0 +1,18 @@
+{
+  "name": "scraping-leads",
+  "module": "index.ts",
+  "scripts": {
+    "dev": "bun run src/index.ts"
+  },
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "puppeteer": "^24.42.0"
+  }
+}
