@@ -1,0 +1,30 @@
+[
+  {
+    "name": "_ga",
+    "value": "GA1.1.300468270.1776710841",
+    "domain": ".upnvj.ac.id",
+    "path": "/",
+    "expires": 1811270840.700946,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "MoodleSession",
+    "value": "b12a5aoej4rbtdjp21ndkrk1lr",
+    "domain": "leads.upnvj.ac.id",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_ga_XSN5XCFMJ0",
+    "value": "GS2.1.s1776710840$o1$g1$t1776710845$j55$l0$h0",
+    "domain": ".upnvj.ac.id",
+    "path": "/",
+    "expires": 1811270845.158362,
+    "httpOnly": false,
+    "secure": false
+  }
+]
